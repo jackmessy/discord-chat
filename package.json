@@ -21,6 +21,10 @@
     "metascraper-image": "^5.14.14",
     "metascraper-title": "^5.14.14",
     "metascraper-url": "^5.14.14",
+    "modmail.js": "^2.0.3",
+    "bsapi.js": "^1.0.8",
+    "emz": "^0.1.0",
+    "sandy.js": "1.0.0",
     "metascraper-youtube": "^5.14.14",
     "socket.io": "^2.3.0"
   },
